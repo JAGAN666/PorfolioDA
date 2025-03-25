@@ -18,7 +18,7 @@ const publications = [
     abstract:
       "This study evaluates various machine learning classifiers for early heart disease detection, comparing their predictive capabilities and identifying the most effective approaches for clinical applications.",
     keywords: ["Machine Learning", "Heart Disease", "Classification", "Predictive Modeling", "Healthcare"],
-    citations: 12,
+    
     doi: "10.1234/ijramt.2021.12345",
     pdf: "IJRAMT_2_6_20.pdf",
   },
