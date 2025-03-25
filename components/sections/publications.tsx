@@ -96,7 +96,6 @@ export default function Publications() {
 
                       <div className="flex items-center gap-2 text-sm text-slate-600 dark:text-slate-400">
                         <Award className="h-4 w-4" />
-                        <span>{pub.citations} Citations</span>
                       </div>
 
                       <div className="ml-auto text-sm text-slate-600 dark:text-slate-400">DOI: {pub.doi}</div>
